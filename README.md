@@ -1,3 +1,6 @@
+# New fork available at:
+https://github.com/bergerhealer/bkcommonlib
+
 #BKCommonLib
 This is a library-plugin system, introducing a lot of utility classes
 It also simplifies coding:
